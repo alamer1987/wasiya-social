@@ -1,0 +1,60 @@
+name: ناشر السوشيال
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # 7-8 صباحًا بتوقيت مصر
+    - cron: "0 11 * * *"  # 1-2 ظهرًا
+    - cron: "0 17 * * *"  # 7-8 مساءً
+  workflow_dispatch:
+    inputs:
+      dryRun:
+        description: "وضع التجربة (توليد بدون نشر)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: social-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: تحميل الكود
+        uses: actions/checkout@v4
+
+      - name: تجهيز خطوط العربية للبطاقات
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends fonts-noto-core fonts-kacst
+
+      - name: تثبيت الحزم
+        run: npm install --no-audit --no-fund
+
+      - name: توليد ونشر البوست
+        run: node run.mjs ${{ (inputs.dryRun == true) && '--dry' || '' }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+
+      - name: حفظ سجل النشر
+        if: always()
+        run: |
+          git config user.name "wasiya-bot"
+          git config user.email "wasiya-bot@users.noreply.github.com"
+          git add post-log.md post-log.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "تحديث سجل النشر"
+            git push
+          else
+            echo "مفيش تغيير في السجل"
+          fi
