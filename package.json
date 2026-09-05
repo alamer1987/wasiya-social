@@ -1,0 +1,18 @@
+{
+  "name": "wasiya-social",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "الناشر الأوتوماتيكي لمنصة وصية — يعمل من GitHub Actions مجانًا",
+  "scripts": {
+    "post": "node run.mjs",
+    "dry": "node run.mjs --dry"
+  },
+  "dependencies": {
+    "sharp": "^0.34.3",
+    "twitter-api-v2": "^1.15.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
