@@ -216,7 +216,7 @@ function buildCardSvg(text, variant) {
   <text x="540" y="185" text-anchor="middle" font-family="${FONT}" font-size="80" font-weight="700" fill="${P.accent}">وصية</text>
   <rect x="470" y="215" width="140" height="7" rx="4" fill="url(#bar)"/>
   <text x="540" y="330" text-anchor="middle" font-family="${FONT}" font-size="30" fill="#a8a29e">خزنة أسرارك بعد رحيلك</text>
-  <text font-family="${FONT}" font-size="${fs}" font-weight="700" fill="${P.text}">${tspans}</text>
+  <text text-anchor="middle" font-family="${FONT}" font-size="${fs}" font-weight="700" fill="${P.text}">${tspans}</text>
   <text x="540" y="985" text-anchor="middle" font-family="DejaVu Sans" font-size="36" fill="#a8a29e">wasiya-taupe.vercel.app</text>
 </svg>`;
 }
