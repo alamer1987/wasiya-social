@@ -28,5 +28,13 @@
     "hook": "لو حسابك اتحبس بكره… إيه اللي هيضيع معاه؟",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-06T09:14",
+    "slot": 1,
+    "i": 7,
+    "hook": "مين له حق يعرف أسرارك لو مش موجود؟",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
