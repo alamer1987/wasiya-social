@@ -52,5 +52,13 @@
     "hook": "مفتاح الحياة: بيسألوا عليك… بس",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-07T10:03",
+    "slot": 1,
+    "i": 10,
+    "hook": "تشفير من الطراز العسكري",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
