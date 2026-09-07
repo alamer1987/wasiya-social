@@ -60,5 +60,13 @@
     "hook": "تشفير من الطراز العسكري",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-07T16:10",
+    "slot": 2,
+    "i": 11,
+    "hook": "الوصية بتتسلم بس بعد تلات طبقات تأكيد",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
