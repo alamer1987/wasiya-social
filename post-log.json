@@ -100,5 +100,13 @@
     "hook": "الهدية الأخيرة… كلمة توصل",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-09T09:31",
+    "slot": 1,
+    "i": 16,
+    "hook": "في ناس بتحبك… خليها تلاقيك في كلماتك",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
