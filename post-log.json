@@ -156,5 +156,13 @@
     "hook": "الاستعداد مش تشاؤم… ده رحمة",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-11T14:40",
+    "slot": 2,
+    "i": 23,
+    "hook": "سايب حسرة… ولا سايب أمانة؟",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
