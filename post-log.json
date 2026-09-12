@@ -172,5 +172,13 @@
     "hook": "سايب حسرة… ولا سايب أمانة؟",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-12T09:09",
+    "slot": 1,
+    "i": 25,
+    "hook": "سياسات الشركات: حسابك يتعطب بعد رحيلك",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
