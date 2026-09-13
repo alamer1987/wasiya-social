@@ -212,5 +212,13 @@
     "hook": "مصري ومش معاك كارت بنكي؟ اتحلّت",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-13T19:15",
+    "slot": 2,
+    "i": 29,
+    "hook": "مصري ومش معاك كارت بنكي؟ اتحلّت",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
