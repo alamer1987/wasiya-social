@@ -196,5 +196,13 @@
     "hook": "كام حساب لي إيدك على النت؟ بصراحة؟",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-13T10:06",
+    "slot": 1,
+    "i": 28,
+    "hook": "جرّب «وصية» مجانًا — من غير كارت بنكي",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
