@@ -228,5 +228,13 @@
     "hook": "اعرف فكرة «وصية» في دقيقتين",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-14T16:40",
+    "slot": 2,
+    "i": 32,
+    "hook": "التجربة المجانية: كاملة مش شكلية",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
