@@ -276,5 +276,13 @@
     "hook": "تلات طبقات قبل التسليم… بالتفصيل",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-16T15:12",
+    "slot": 2,
+    "i": 38,
+    "hook": "خصوصية للطرفين",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
