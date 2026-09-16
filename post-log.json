@@ -268,5 +268,13 @@
     "hook": "قرينك يعرف كلمات سر البنك؟ بجد؟",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-16T09:47",
+    "slot": 1,
+    "i": 37,
+    "hook": "تلات طبقات قبل التسليم… بالتفصيل",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
