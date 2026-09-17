@@ -300,5 +300,13 @@
     "hook": "من المتصفح مباشرة — من غير تطبيقات",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-17T15:21",
+    "slot": 2,
+    "i": 41,
+    "hook": "جرّب سيناريو التسليم بإيدك",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
