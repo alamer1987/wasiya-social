@@ -364,5 +364,13 @@
     "hook": "إرثك الرقمي أغلى مما تتخيل",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-20T09:41",
+    "slot": 1,
+    "i": 3,
+    "hook": "أسرارك في دماغك بس؟ دي مش أمانة… دي مخاطرة",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
