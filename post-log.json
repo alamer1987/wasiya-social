@@ -388,5 +388,13 @@
     "hook": "70% من حياتنا بقيت رقمية… والوصية لسه ورقة في درج؟",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-21T10:34",
+    "slot": 1,
+    "i": 6,
+    "hook": "أسرارك الرقمية محتاجة أمين",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
