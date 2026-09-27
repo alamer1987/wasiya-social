@@ -540,5 +540,13 @@
     "hook": "أصول رقمية بتضيع بالمليارات كل سنة",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-27T15:25",
+    "slot": 2,
+    "i": 25,
+    "hook": "سياسات الشركات: حسابك يتعطب بعد رحيلك",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
