@@ -532,5 +532,13 @@
     "hook": "الاستعداد مش تشاؤم… ده رحمة",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-27T10:27",
+    "slot": 1,
+    "i": 24,
+    "hook": "أصول رقمية بتضيع بالمليارات كل سنة",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
