@@ -556,5 +556,13 @@
     "hook": "سياسات الشركات: حسابك يتعطب بعد رحيلك",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-28T11:35",
+    "slot": 1,
+    "i": 27,
+    "hook": "موبايلك بقى خزنة… والخزنة محتاجة مفتاح",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
