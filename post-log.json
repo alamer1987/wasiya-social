@@ -612,5 +612,13 @@
     "hook": "الميراث مش بس فلوس",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-09-30T16:32",
+    "slot": 2,
+    "i": 34,
+    "hook": "التخطيط للطوارئ حكمة",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
