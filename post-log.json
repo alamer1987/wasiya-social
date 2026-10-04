@@ -716,5 +716,13 @@
     "hook": "لو رحلت فجأة… مين يوصل كلمات سرّك؟",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-10-04T20:00",
+    "slot": 2,
+    "i": 0,
+    "hook": "لو رحلت فجأة… مين يوصل كلمات سرّك؟",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
