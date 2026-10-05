@@ -732,5 +732,13 @@
     "hook": "كلمات السر مش بتتورث",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-10-05T19:25",
+    "slot": 2,
+    "i": 3,
+    "hook": "أسرارك في دماغك بس؟ دي مش أمانة… دي مخاطرة",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
