@@ -748,5 +748,13 @@
     "hook": "أسرارك في دماغك بس؟ دي مش أمانة… دي مخاطرة",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-10-06T11:53",
+    "slot": 1,
+    "i": 5,
+    "hook": "لو حسابك اتحبس بكره… إيه اللي هيضيع معاه؟",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
