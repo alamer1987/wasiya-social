@@ -876,5 +876,13 @@
     "hook": "الأمانة تُؤدّى لأهلها",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-10-11T16:26",
+    "slot": 2,
+    "i": 21,
+    "hook": "الكلمة الطيبة صداقة… خليها توصل",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
