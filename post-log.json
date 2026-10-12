@@ -892,5 +892,13 @@
     "hook": "الكلمة الطيبة صداقة… خليها توصل",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-10-12T12:56",
+    "slot": 1,
+    "i": 23,
+    "hook": "سايب حسرة… ولا سايب أمانة؟",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
