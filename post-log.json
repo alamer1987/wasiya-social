@@ -900,5 +900,13 @@
     "hook": "سايب حسرة… ولا سايب أمانة؟",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-10-12T20:02",
+    "slot": 2,
+    "i": 24,
+    "hook": "أصول رقمية بتضيع بالمليارات كل سنة",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
