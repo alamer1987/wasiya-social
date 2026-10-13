@@ -924,5 +924,13 @@
     "hook": "كام حساب لي إيدك على النت؟ بصراحة؟",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-10-13T17:50",
+    "slot": 2,
+    "i": 27,
+    "hook": "موبايلك بقى خزنة… والخزنة محتاجة مفتاح",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
