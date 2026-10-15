@@ -972,5 +972,13 @@
     "hook": "التجربة المجانية: كاملة مش شكلية",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-10-15T15:23",
+    "slot": 2,
+    "i": 33,
+    "hook": "الميراث مش بس فلوس",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
