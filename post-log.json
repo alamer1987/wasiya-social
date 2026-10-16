@@ -996,5 +996,13 @@
     "hook": "قرينك يعرف كلمات سر البنك؟ بجد؟",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-10-16T15:03",
+    "slot": 2,
+    "i": 36,
+    "hook": "أمين على أسرار غيرك كمان؟",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
