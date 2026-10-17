@@ -1028,5 +1028,13 @@
     "hook": "خصوصية للطرفين",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-10-17T19:09",
+    "slot": 2,
+    "i": 39,
+    "hook": "مفيش إعلانات ولا بيع بيانات",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
