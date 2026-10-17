@@ -1012,5 +1012,13 @@
     "hook": "أمين على أسرار غيرك كمان؟",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-10-17T09:07",
+    "slot": 1,
+    "i": 38,
+    "hook": "خصوصية للطرفين",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
