@@ -1044,5 +1044,13 @@
     "hook": "جرّب سيناريو التسليم بإيدك",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-10-18T14:11",
+    "slot": 2,
+    "i": 42,
+    "hook": "النظام بينبّه قبل ما يسلّم — دايمًا",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
