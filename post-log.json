@@ -1188,5 +1188,13 @@
     "hook": "10 دقايق تنظيم… وارتياح لسنين",
     "telegram": "✅",
     "x": "❌ Request failed with code 402"
+  },
+  {
+    "t": "2026-10-24T14:09",
+    "slot": 2,
+    "i": 14,
+    "hook": "الهدية الأخيرة… كلمة توصل",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402"
   }
 ]
