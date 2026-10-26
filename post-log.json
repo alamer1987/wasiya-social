@@ -1236,5 +1236,13 @@
     "hook": "ذكرياتك تستاهل حارس",
     "telegram": "✅",
     "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
+  },
+  {
+    "t": "2026-10-26T17:08",
+    "slot": 2,
+    "i": 20,
+    "hook": "الأمانة تُؤدّى لأهلها",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
   }
 ]

@@ -2,6 +2,7 @@
 
 | التوقيت UTC | الفترة | البوست | العنوان | تليجرام | X | فيسبوك | انستجرام |
 |---|---|---|---|---|---|---|---|
+| 2026-10-26T17:08 | المغرب | 21 | الأمانة تُؤدّى لأهلها | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-10-26T10:54 | الظهر | 20 | ذكرياتك تستاهل حارس | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-10-25T19:29 | المغرب | 18 | ورقة في درج… ولا أمانة رقمية موث | ✅ | ❌ Request failed with code 402 | - | - |
 | 2026-10-25T14:38 | المغرب | 18 | ورقة في درج… ولا أمانة رقمية موث | ✅ | ❌ Request failed with code 402 | - | - |
