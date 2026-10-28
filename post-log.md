@@ -2,6 +2,7 @@
 
 | التوقيت UTC | الفترة | البوست | العنوان | تليجرام | X | فيسبوك | انستجرام |
 |---|---|---|---|---|---|---|---|
+| 2026-10-28T11:11 | الظهر | 26 | سياسات الشركات: حسابك يتعطب بعد  | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-10-27T21:09 | المغرب | 24 | سايب حسرة… ولا سايب أمانة؟ | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-10-27T16:11 | المغرب | 24 | سايب حسرة… ولا سايب أمانة؟ | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-10-27T10:18 | الظهر | 23 | الاستعداد مش تشاؤم… ده رحمة | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
