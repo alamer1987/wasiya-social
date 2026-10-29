@@ -2,6 +2,7 @@
 
 | التوقيت UTC | الفترة | البوست | العنوان | تليجرام | X | فيسبوك | انستجرام |
 |---|---|---|---|---|---|---|---|
+| 2026-10-29T11:23 | الظهر | 29 | جرّب «وصية» مجانًا — من غير كارت | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-10-28T21:34 | المغرب | 27 | كام حساب لي إيدك على النت؟ بصراح | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-10-28T16:52 | المغرب | 27 | كام حساب لي إيدك على النت؟ بصراح | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-10-28T11:11 | الظهر | 26 | سياسات الشركات: حسابك يتعطب بعد  | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
