@@ -2,6 +2,7 @@
 
 | التوقيت UTC | الفترة | البوست | العنوان | تليجرام | X | فيسبوك | انستجرام |
 |---|---|---|---|---|---|---|---|
+| 2026-10-30T11:15 | الظهر | 32 | اعرف فكرة «وصية» في دقيقتين | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-10-29T21:41 | المغرب | 30 | مصري ومش معاك كارت بنكي؟ اتحلّت | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-10-29T17:09 | المغرب | 30 | مصري ومش معاك كارت بنكي؟ اتحلّت | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-10-29T11:23 | الظهر | 29 | جرّب «وصية» مجانًا — من غير كارت | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
