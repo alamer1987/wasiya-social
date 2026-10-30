@@ -1332,5 +1332,13 @@
     "hook": "اعرف فكرة «وصية» في دقيقتين",
     "telegram": "✅",
     "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
+  },
+  {
+    "t": "2026-10-30T16:50",
+    "slot": 2,
+    "i": 32,
+    "hook": "التجربة المجانية: كاملة مش شكلية",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
   }
 ]
