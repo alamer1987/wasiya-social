@@ -2,6 +2,7 @@
 
 | التوقيت UTC | الفترة | البوست | العنوان | تليجرام | X | فيسبوك | انستجرام |
 |---|---|---|---|---|---|---|---|
+| 2026-11-01T11:45 | الظهر | 38 | تلات طبقات قبل التسليم… بالتفصيل | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-10-31T20:25 | المغرب | 36 | قرينك يعرف كلمات سر البنك؟ بجد؟ | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-10-31T15:54 | المغرب | 36 | قرينك يعرف كلمات سر البنك؟ بجد؟ | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-10-31T10:49 | الظهر | 35 | التخطيط للطوارئ حكمة | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |

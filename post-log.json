@@ -1372,5 +1372,13 @@
     "hook": "قرينك يعرف كلمات سر البنك؟ بجد؟",
     "telegram": "✅",
     "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
+  },
+  {
+    "t": "2026-11-01T11:45",
+    "slot": 1,
+    "i": 37,
+    "hook": "تلات طبقات قبل التسليم… بالتفصيل",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
   }
 ]
