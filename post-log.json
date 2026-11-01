@@ -1380,5 +1380,13 @@
     "hook": "تلات طبقات قبل التسليم… بالتفصيل",
     "telegram": "✅",
     "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
+  },
+  {
+    "t": "2026-11-01T16:56",
+    "slot": 2,
+    "i": 38,
+    "hook": "خصوصية للطرفين",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
   }
 ]
