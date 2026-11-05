@@ -2,6 +2,7 @@
 
 | التوقيت UTC | الفترة | البوست | العنوان | تليجرام | X | فيسبوك | انستجرام |
 |---|---|---|---|---|---|---|---|
+| 2026-11-05T12:59 | الظهر | 4 | أسرارك في دماغك بس؟ دي مش أمانة… | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-04T22:29 | المغرب | 2 | إرثك الرقمي أغلى مما تتخيل | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-04T18:18 | المغرب | 2 | إرثك الرقمي أغلى مما تتخيل | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-04T12:51 | الظهر | 1 | لو رحلت فجأة… مين يوصل كلمات سرّ | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |

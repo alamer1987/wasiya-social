@@ -1468,5 +1468,13 @@
     "hook": "إرثك الرقمي أغلى مما تتخيل",
     "telegram": "✅",
     "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
+  },
+  {
+    "t": "2026-11-05T12:59",
+    "slot": 1,
+    "i": 3,
+    "hook": "أسرارك في دماغك بس؟ دي مش أمانة… دي مخاطرة",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
   }
 ]
