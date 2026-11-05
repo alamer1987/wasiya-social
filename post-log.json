@@ -1476,5 +1476,13 @@
     "hook": "أسرارك في دماغك بس؟ دي مش أمانة… دي مخاطرة",
     "telegram": "✅",
     "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
+  },
+  {
+    "t": "2026-11-05T18:22",
+    "slot": 2,
+    "i": 4,
+    "hook": "70% من حياتنا بقيت رقمية… والوصية لسه ورقة في درج؟",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
   }
 ]
