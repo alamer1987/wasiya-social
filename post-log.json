@@ -1524,5 +1524,13 @@
     "hook": "شاهديك هم اللي بيأكدوا",
     "telegram": "✅",
     "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
+  },
+  {
+    "t": "2026-11-07T16:40",
+    "slot": 2,
+    "i": 10,
+    "hook": "تشفير من الطراز العسكري",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
   }
 ]
