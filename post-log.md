@@ -2,6 +2,7 @@
 
 | التوقيت UTC | الفترة | البوست | العنوان | تليجرام | X | فيسبوك | انستجرام |
 |---|---|---|---|---|---|---|---|
+| 2026-11-08T11:48 | الظهر | 13 | خزنة بتفتح لأهلها… وبس | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-07T20:44 | المغرب | 11 | تشفير من الطراز العسكري | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-07T16:40 | المغرب | 11 | تشفير من الطراز العسكري | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-07T11:36 | الظهر | 10 | شاهديك هم اللي بيأكدوا | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
