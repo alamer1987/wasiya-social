@@ -1628,5 +1628,13 @@
     "hook": "الاستعداد مش تشاؤم… ده رحمة",
     "telegram": "✅",
     "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
+  },
+  {
+    "t": "2026-11-11T23:23",
+    "slot": 2,
+    "i": 22,
+    "hook": "الاستعداد مش تشاؤم… ده رحمة",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
   }
 ]
