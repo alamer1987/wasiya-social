@@ -1660,5 +1660,13 @@
     "hook": "سياسات الشركات: حسابك يتعطب بعد رحيلك",
     "telegram": "✅",
     "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
+  },
+  {
+    "t": "2026-11-13T12:56",
+    "slot": 1,
+    "i": 27,
+    "hook": "موبايلك بقى خزنة… والخزنة محتاجة مفتاح",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
   }
 ]
