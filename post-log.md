@@ -2,6 +2,7 @@
 
 | التوقيت UTC | الفترة | البوست | العنوان | تليجرام | X | فيسبوك | انستجرام |
 |---|---|---|---|---|---|---|---|
+| 2026-11-13T18:14 | المغرب | 29 | جرّب «وصية» مجانًا — من غير كارت | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-13T12:56 | الظهر | 28 | موبايلك بقى خزنة… والخزنة محتاجة | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-12T22:39 | المغرب | 26 | سياسات الشركات: حسابك يتعطب بعد  | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-12T18:38 | المغرب | 26 | سياسات الشركات: حسابك يتعطب بعد  | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
