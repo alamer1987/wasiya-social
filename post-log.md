@@ -2,6 +2,7 @@
 
 | التوقيت UTC | الفترة | البوست | العنوان | تليجرام | X | فيسبوك | انستجرام |
 |---|---|---|---|---|---|---|---|
+| 2026-11-18T23:19 | المغرب | 44 | وصية… من الآخر: راحة بال | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-18T19:10 | المغرب | 44 | وصية… من الآخر: راحة بال | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-18T13:44 | الظهر | 43 | النظام بينبّه قبل ما يسلّم — داي | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-17T23:47 | المغرب | 41 | من المتصفح مباشرة — من غير تطبيق | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
