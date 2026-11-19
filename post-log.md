@@ -2,6 +2,7 @@
 
 | التوقيت UTC | الفترة | البوست | العنوان | تليجرام | X | فيسبوك | انستجرام |
 |---|---|---|---|---|---|---|---|
+| 2026-11-19T23:27 | المغرب | 1 | لو رحلت فجأة… مين يوصل كلمات سرّ | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-19T19:13 | المغرب | 1 | لو رحلت فجأة… مين يوصل كلمات سرّ | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-19T14:14 | المغرب | 1 | لو رحلت فجأة… مين يوصل كلمات سرّ | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-18T23:19 | المغرب | 44 | وصية… من الآخر: راحة بال | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
