@@ -2,6 +2,7 @@
 
 | التوقيت UTC | الفترة | البوست | العنوان | تليجرام | X | فيسبوك | انستجرام |
 |---|---|---|---|---|---|---|---|
+| 2026-11-21T17:49 | المغرب | 7 | أسرارك الرقمية محتاجة أمين | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-21T13:18 | الظهر | 6 | لو حسابك اتحبس بكره… إيه اللي هي | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-20T23:00 | المغرب | 4 | أسرارك في دماغك بس؟ دي مش أمانة… | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-20T18:54 | المغرب | 4 | أسرارك في دماغك بس؟ دي مش أمانة… | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
