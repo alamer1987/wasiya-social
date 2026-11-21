@@ -1852,5 +1852,13 @@
     "hook": "أسرارك في دماغك بس؟ دي مش أمانة… دي مخاطرة",
     "telegram": "✅",
     "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
+  },
+  {
+    "t": "2026-11-21T13:18",
+    "slot": 1,
+    "i": 5,
+    "hook": "لو حسابك اتحبس بكره… إيه اللي هيضيع معاه؟",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
   }
 ]
