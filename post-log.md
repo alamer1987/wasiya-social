@@ -2,6 +2,7 @@
 
 | التوقيت UTC | الفترة | البوست | العنوان | تليجرام | X | فيسبوك | انستجرام |
 |---|---|---|---|---|---|---|---|
+| 2026-11-24T03:12 | الصبح | 14 | 10 دقايق تنظيم… وارتياح لسنين | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-23T22:16 | المغرب | 13 | خزنة بتفتح لأهلها… وبس | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-23T15:50 | المغرب | 13 | خزنة بتفتح لأهلها… وبس | ❌ fetch failed | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-22T22:21 | المغرب | 10 | شاهديك هم اللي بيأكدوا | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
