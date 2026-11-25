@@ -2,6 +2,7 @@
 
 | التوقيت UTC | الفترة | البوست | العنوان | تليجرام | X | فيسبوك | انستجرام |
 |---|---|---|---|---|---|---|---|
+| 2026-11-25T15:24 | المغرب | 19 | الوصية مش عن الرحيل… دي رحمة بمن | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-25T01:17 | الصبح | 17 | في ناس بتحبك… خليها تلاقيك في كل | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-24T20:54 | المغرب | 16 | خلي كلمتك الأخيرة جميلة | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |
 | 2026-11-24T15:39 | المغرب | 16 | خلي كلمتك الأخيرة جميلة | ✅ | ❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted) | - | - |

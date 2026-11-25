@@ -1948,5 +1948,13 @@
     "hook": "في ناس بتحبك… خليها تلاقيك في كلماتك",
     "telegram": "✅",
     "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
+  },
+  {
+    "t": "2026-11-25T15:24",
+    "slot": 2,
+    "i": 18,
+    "hook": "الوصية مش عن الرحيل… دي رحمة بمن وراك",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
   }
 ]
