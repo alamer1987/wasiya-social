@@ -1980,5 +1980,13 @@
     "hook": "الكلمة الطيبة صداقة… خليها توصل",
     "telegram": "✅",
     "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
+  },
+  {
+    "t": "2026-11-26T19:54",
+    "slot": 2,
+    "i": 21,
+    "hook": "الكلمة الطيبة صداقة… خليها توصل",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
   }
 ]
