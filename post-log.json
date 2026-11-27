@@ -2004,5 +2004,13 @@
     "hook": "أصول رقمية بتضيع بالمليارات كل سنة",
     "telegram": "✅",
     "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
+  },
+  {
+    "t": "2026-11-27T19:42",
+    "slot": 2,
+    "i": 24,
+    "hook": "أصول رقمية بتضيع بالمليارات كل سنة",
+    "telegram": "✅",
+    "x": "❌ Request failed with code 402 - Payment Required: credits depleted (see https://api.x.com/2/problems/credits-depleted)"
   }
 ]
